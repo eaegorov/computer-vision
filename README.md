@@ -1,4 +1,4 @@
-# computer-vision
+# Computer Vision
 Computer vision algorithms from scratch (university course)
 
 1. Image processing (generation gaussian kernel, image bluring)
