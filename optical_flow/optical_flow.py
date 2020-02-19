@@ -14,7 +14,7 @@ def get_grad(img1, img2):
     return Ix, Iy, It
 
 
-# Lambda and optical flow calcilation
+# Lambda and optical flow calculation
 def optical_flow(ix, iy, it):
     # Gaussian mask
     mask = np.array([1, 4, 6, 4, 1]) / 16
